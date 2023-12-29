@@ -8,7 +8,7 @@ from pyrogram import filters
 from pyrogram.types import Message, ChatPermissions
 
 from pyrogram.errors import UserAdminInvalid
-from pyrogram.methods.chats.get_chat_members import Filters as ChatMemberFilters
+from pyrogram.types import ChatMemberFilters
 
 from UserBot import app, CMD_HELP
 from UserBot.helpers.pyrohelper import get_arg, get_args
