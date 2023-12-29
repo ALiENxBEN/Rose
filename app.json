@@ -25,20 +25,20 @@
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "29177249"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "f1c8d021f35a8a0391325bda480e30ad"
     },
     "PYROGRAM_SESSION": {
       "description": "Pyrogram String Session, Get it by Running python3 -m session",
-      "value": "",
+      "value": "BQG9NaEASZAG8A8JjRbE4dRROLpubX-Lac_U-K2Z4-Bu9UzLX2Vx-ZAA0O4UwMc3tvbKf9wdMb7UypErK81d_jU6xsKYRUXrWsuB6_y-0Hood_-rnkbp3HsKBjG5_VVQKZyj1fmDO44zvR8Dd54RBsFOQregd8A2oRrxrYQq8qOw0O3SM5Qv_CcJ-tlCn2iOmJu8hXFJcPnZSzdm59OdWB46-XfVTET72JRywNHIuBilYMHEN9arPNr5KhsDI7LLVHNnedHc3g_yo20o5qsbSEPxTvdRRx7CbfdfFXYSq91N_Nk5NiU0DXAETdviZwmS5XKouRcT57Qtxuh00uL1tmohSEv09AAAAAFOJhv2AA",
       "required": false
     },
     "LOG_CHAT": {
       "description": "Log Chat ID",
-      "value": ""
+      "value": "-1002040281905"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku App Name that you putted on top",
@@ -46,7 +46,7 @@
     },
     "HEROKU_API": {
       "description": "Your Heroku API Key, Can be found in https://dashboard.heroku.com/account",
-      "value": ""
+      "value": "7b74e316-45ae-4f6c-916c-7535749b18ac"
     }
   },
   "buildpacks": [
